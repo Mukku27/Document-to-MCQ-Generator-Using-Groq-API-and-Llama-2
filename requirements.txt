@@ -1,5 +1,6 @@
 openai
 langchain
+google-generativeai
 streamlit 
 python-dotenv
 pyPDF2
