@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+mcqgenerator.egg-info/PKG-INFO
+mcqgenerator.egg-info/SOURCES.txt
+mcqgenerator.egg-info/dependency_links.txt
+mcqgenerator.egg-info/requires.txt
+mcqgenerator.egg-info/top_level.txt
+src/__init__.py
+src/mcqgenerator/__init__.py

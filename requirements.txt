@@ -4,3 +4,6 @@ google-generativeai
 streamlit 
 python-dotenv
 pyPDF2
+
+
+-e.
