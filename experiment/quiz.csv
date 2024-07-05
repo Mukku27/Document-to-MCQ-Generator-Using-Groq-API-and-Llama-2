@@ -1,0 +1,8 @@
+MCQ,Choices,Correct
+What is deep learning a subset of?,a: Artificial Intelligence|b: Machine Learning|c: Neural Networks|d: Computer Vision,Machine Learning
+What is the primary function of each layer in a deep neural network?,a: To extract raw input features|b: To make predictions|c: To extract higher-level features from the raw input|d: To process data in a linear manner,To extract higher-level features from the raw input
+What type of neural network is commonly used for image tasks?,a: Recurrent Neural Networks (RNNs)|b: Convolutional Neural Networks (CNNs)|c: Deep Neural Networks (DNNs)|d: Feedforward Neural Networks,Convolutional Neural Networks (CNNs)
+What is the term used to describe the interconnected nodes in a neural network?,a: Neurons|b: Nodes|c: Connections|d: Layers,Neurons
+What type of data is typically processed by Recurrent Neural Networks (RNNs)?,a: Image data|b: Sequential data|c: Audio data|d: Text data,Sequential data
+What enables deep learning algorithms to automatically learn to perform tasks?,a: Large datasets and powerful computational resources|b: Small datasets and simple computational resources|c: Manual feature engineering|d: Rule-based systems,Large datasets and powerful computational resources
+What is the primary advantage of using deep learning algorithms?,a: They are simple to implement|b: They require minimal data|c: They can automatically learn to perform tasks|d: They are only used for image recognition,They can automatically learn to perform tasks
