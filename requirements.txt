@@ -2,6 +2,8 @@ pandas==1.5.3
 python-dotenv==0.21.0
 langchain-core==0.2.3  # Update this version as needed based on your installation
 langchain-groq==0.1.6 # Update this version as needed based on your installation
+PyPDF2
+streamlit 
 
 
 -e.

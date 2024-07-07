@@ -1,0 +1,30 @@
+[2024-07-07 22:02:18,106] 8 root - INFO - Extracting text from temp/data.txt
+[2024-07-07 22:02:18,107] 24 root - INFO - Extracting text from TXT temp/data.txt
+[2024-07-07 22:02:18,109] 23 root - INFO - Generating MCQs
+[2024-07-07 22:02:21,704] 1026 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-07-07 22:02:21,761] 61 root - INFO - Total Tokens: 739
+[2024-07-07 22:02:21,762] 62 root - INFO - Prompt Tokens: 348
+[2024-07-07 22:02:21,762] 63 root - INFO - Completion Tokens: 391
+[2024-07-07 22:02:21,762] 64 root - INFO - Total cost: N/A
+[2024-07-07 22:02:21,763] 67 root - INFO - Raw response received
+[2024-07-07 22:02:21,763] 31 root - INFO - Processing quiz data into table format
+[2024-07-07 22:03:31,659] 8 root - INFO - Extracting text from temp/data.txt
+[2024-07-07 22:03:31,660] 24 root - INFO - Extracting text from TXT temp/data.txt
+[2024-07-07 22:03:31,661] 23 root - INFO - Generating MCQs
+[2024-07-07 22:03:34,304] 1026 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-07-07 22:03:34,314] 61 root - INFO - Total Tokens: 1022
+[2024-07-07 22:03:34,314] 62 root - INFO - Prompt Tokens: 348
+[2024-07-07 22:03:34,315] 63 root - INFO - Completion Tokens: 674
+[2024-07-07 22:03:34,315] 64 root - INFO - Total cost: N/A
+[2024-07-07 22:03:34,315] 67 root - INFO - Raw response received
+[2024-07-07 22:03:34,315] 31 root - INFO - Processing quiz data into table format
+[2024-07-07 22:03:44,470] 8 root - INFO - Extracting text from temp/data.txt
+[2024-07-07 22:03:44,471] 24 root - INFO - Extracting text from TXT temp/data.txt
+[2024-07-07 22:03:44,472] 23 root - INFO - Generating MCQs
+[2024-07-07 22:03:47,388] 1026 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-07-07 22:03:47,393] 61 root - INFO - Total Tokens: 999
+[2024-07-07 22:03:47,393] 62 root - INFO - Prompt Tokens: 349
+[2024-07-07 22:03:47,393] 63 root - INFO - Completion Tokens: 650
+[2024-07-07 22:03:47,393] 64 root - INFO - Total cost: N/A
+[2024-07-07 22:03:47,394] 67 root - INFO - Raw response received
+[2024-07-07 22:03:47,394] 31 root - INFO - Processing quiz data into table format

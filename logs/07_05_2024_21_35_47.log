@@ -1,0 +1,11 @@
+[2024-07-05 21:36:13,329] 8 root - INFO - Extracting text from temp/data.txt
+[2024-07-05 21:36:13,329] 24 root - INFO - Extracting text from TXT temp/data.txt
+[2024-07-05 21:36:13,329] 23 root - INFO - Generating MCQs
+[2024-07-05 21:36:15,708] 1026 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-07-05 21:36:15,728] 61 root - INFO - Total Tokens: 1016
+[2024-07-05 21:36:15,728] 62 root - INFO - Prompt Tokens: 343
+[2024-07-05 21:36:15,728] 63 root - INFO - Completion Tokens: 673
+[2024-07-05 21:36:15,728] 64 root - INFO - Total cost: N/A
+[2024-07-05 21:36:15,728] 67 root - INFO - Raw response received
+[2024-07-05 21:36:15,729] 31 root - INFO - Processing quiz data into table format
+[2024-07-05 21:36:27,033] 47 root - INFO - Saving quiz data to quiz.csv

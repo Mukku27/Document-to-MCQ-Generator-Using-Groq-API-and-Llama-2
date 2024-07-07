@@ -1,0 +1,24 @@
+Diffusion models
+Diffusion models are generative models that are trained using the forward and reverse diffusion process of progressive noise-addition and denoising. Diffusion models generate data—most often images—similar to the data on which they are trained, but then overwrite the data used to train them. They gradually add Gaussian noise to the training data until it’s unrecognizable, then learn a reversed “denoising” process that can synthesize output (usually images) from random noise input.
+
+A diffusion model learns to minimize the differences of the generated samples versus the desired target. Any discrepancy is quantified and the model's parameters are updated to minimize the loss—training the model to produce samples closely resembling the authentic training data.
+
+Beyond image quality, diffusion models have the advantage of not requiring adversarial training, which speeds the learning process and also offering close process control. Training is more stable than with GANs and diffusion models are not as prone to mode collapse.
+
+But, compared to GANs, diffusion models can require more computing resources to train, including more fine-tuning. IBM Research® has also discovered that this form of generative AI can be hijacked with hidden backdoors, giving attackers control over the image creation process so that AI diffusion models can be tricked into generating manipulated images.
+
+Transformer models
+Transformer models combine an encoder-decoder architecture with a text-processing mechanism and have revolutionized how language models are trained. An encoder converts raw, unannotated text into representations known as embeddings; the decoder takes these embeddings together with previous outputs of the model, and successively predicts each word in a sentence.
+
+Using fill-in-the-blank guessing, the encoder learns how words and sentences relate to each other, building up a powerful representation of language without having to label parts of speech and other grammatical features. Transformers, in fact, can be pretrained at the outset without a particular task in mind. After these powerful representations are learned, the models can later be specialized—with much less data—to perform a requested task.
+
+Several innovations make this possible. Transformers process words in a sentence simultaneously, enabling text processing in parallel, speeding up training. Earlier techniques including recurrent neural networks (RNNs) processed words one by one. Transformers also learned the positions of words and their relationships—this context enables them to infer meaning and disambiguate words such as “it” in long sentences.
+
+By eliminating the need to define a task upfront, transformers made it practical to pretrain language models on vast amounts of raw text, enabling them to grow dramatically in size. Previously, labeled data was gathered to train one model on a specific task. With transformers, one model trained on a massive amount of data can be adapted to multiple tasks by fine-tuning it on a small amount of labeled task-specific data.
+
+Language transformers today are used for nongenerative tasks such as classification and entity extraction as well as generative tasks including machine translation, summarization and question answering. Transformers have surprised many people with their ability to generate convincing dialog, essays and other content.
+
+Natural language processing (NLP) transformers provide remarkable power since they can run in parallel, processing multiple portions of a sequence simultaneously, which then greatly speeds training. Transformers also track long-term dependencies in text, which enables them to understand the overall context more clearly and create superior output. In addition, transformers are more scalable and flexible in order to be customized by task.
+
+As to limitations, because of their complexity, transformers require huge computational resources and a long training time. Also, the training data must be accurately on-target, unbiased and plentiful to produce accurate results.
+

@@ -1,0 +1,11 @@
+MCQ,Choices,Correct
+What is generative artificial intelligence capable of generating?,"a: Only text|b: Only images|c: Text, images, videos, or other data|d: Only videos","Text, images, videos, or other data"
+What do generative AI models learn from their input training data?,a: Only patterns|b: Only structure|c: Patterns and structure|d: Neither patterns nor structure,Patterns and structure
+What enabled the AI boom of generative AI systems in the early 2020s?,a: Improvements in rule-based systems|b: Improvements in transformer-based deep neural networks|c: Improvements in decision trees|d: Improvements in random forests,Improvements in transformer-based deep neural networks
+What is an example of a chatbot that uses generative AI?,a: Sora|b: DALL-E|c: ChatGPT|d: Midjourney,ChatGPT
+What is an example of a text-to-image artificial intelligence image generation system?,a: Copilot|b: Gemini|c: Stable Diffusion|d: LLaMA,Stable Diffusion
+Which company has developed generative AI models?,"a: Only OpenAI|b: Only Microsoft|c: OpenAI, Anthropic, Microsoft, Google, and Baidu|d: None of the above","OpenAI, Anthropic, Microsoft, Google, and Baidu"
+What is the name of the type of neural networks that enabled the AI boom of generative AI systems?,a: Recurrent neural networks|b: Convolutional neural networks|c: Transformer-based deep neural networks|d: Feedforward neural networks,Transformer-based deep neural networks
+What is the name of the type of models that generative AI uses?,a: Discriminative models|b: Generative models|c: Supervised models|d: Unsupervised models,Generative models
+What is an example of a text-to-video AI generator?,a: DALL-E|b: Midjourney|c: Sora|d: LLaMA,Sora
+What do generative AI models generate in response to prompts?,a: Only data with dissimilar characteristics|b: Only data with similar characteristics|c: Data with both similar and dissimilar characteristics|d: No data at all,Data with similar characteristics
